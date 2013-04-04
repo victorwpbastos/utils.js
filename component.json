@@ -1,5 +1,5 @@
 {
-	"name": "utils",
+	"name": "Utils.js",
 	"description": "Some useful functions for web development",
 	"main": "./lib/utils.js",
 	"version": "0.0.1",
